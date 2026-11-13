@@ -52,7 +52,7 @@ We provide our pre-generated identity-preserving augmented datasets via Google D
 
 | Dataset Name | Target Benchmark | Google Drive Download Link |
 | :--- | :---: | :---: |
-| **DIDA-SYSU-Aug** | SYSU-MM01 | [[Download Dataset 1](https://drive.google.com/file/d/1Ya6vXFzpbcGLTTlYAYSRdCoYZVGoAdEm/view?usp=sharing) |
+| **DIDA-SYSU-Aug** | SYSU-MM01 | [Download Dataset 1](https://drive.google.com/file/d/1Ya6vXFzpbcGLTTlYAYSRdCoYZVGoAdEm/view?usp=sharing) |
 | **DIDA-LLCM-Aug** | LLCM | [Download Dataset 2](https://drive.google.com/file/d/1Lj30TnC_8Sx_KM-P6MVDb4rENLxk4n38/view?usp=sharing) |
 
 > **Note**: Extract the downloaded archives into your specified `./data/` directory and ensure paths are updated in your configuration files.

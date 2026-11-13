@@ -52,8 +52,8 @@ We provide our pre-generated identity-preserving augmented datasets via Google D
 
 | Dataset Name | Target Benchmark | Google Drive Download Link |
 | :--- | :---: | :---: |
-| **DIDA-SYSU-Aug** | SYSU-MM01 | [[Download Dataset 1](https://drive.google.com/drive/folders/YOUR_GOOGLE_DRIVE_LINK_DATASET_1](https://drive.google.com/file/d/1Ya6vXFzpbcGLTTlYAYSRdCoYZVGoAdEm/view?usp=sharing)) |
-| **DIDA-LLCM-Aug** | LLCM | [Download Dataset 2]([https://drive.google.com/drive/folders/YOUR_GOOGLE_DRIVE_LINK_DATASET_2](https://drive.google.com/file/d/1Lj30TnC_8Sx_KM-P6MVDb4rENLxk4n38/view?usp=sharing)) |
+| **DIDA-SYSU-Aug** | SYSU-MM01 | [[Download Dataset 1](https://drive.google.com/file/d/1Ya6vXFzpbcGLTTlYAYSRdCoYZVGoAdEm/view?usp=sharing) |
+| **DIDA-LLCM-Aug** | LLCM | [Download Dataset 2](https://drive.google.com/file/d/1Lj30TnC_8Sx_KM-P6MVDb4rENLxk4n38/view?usp=sharing) |
 
 > **Note**: Extract the downloaded archives into your specified `./data/` directory and ensure paths are updated in your configuration files.
 
@@ -65,8 +65,8 @@ You can download our trained model checkpoints from Google Drive to verify or re
 
 | Model Name | Evaluation Benchmark | Rank-1 (%) | mAP (%) | Checkpoint Link |
 | :--- | :---: | :---: | :---: | :---: |
-| **SYSU_Market** | SYSU-MM01 | -- | -- | [Download Weights]([https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_LINK_SYSU_MARKET](https://drive.google.com/drive/folders/1oix0nfvoRyjz_UFW22sO80DhE93t9W8b?usp=sharing)) |
-| **LLCM_Market** | LLCM | -- | -- | [Download Weights]([https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_LINK_LLCM_MARKET](https://drive.google.com/drive/folders/1I4TtgLRgUx_smBfR_wWQQtYhGkJYcirA?usp=sharing)) |
+| **SYSU_Market** | SYSU-MM01 | -- | -- | [Download Weights](https://drive.google.com/drive/folders/1oix0nfvoRyjz_UFW22sO80DhE93t9W8b?usp=sharing) |
+| **LLCM_Market** | LLCM | -- | -- | [Download Weights](https://drive.google.com/drive/folders/1I4TtgLRgUx_smBfR_wWQQtYhGkJYcirA?usp=sharing) |
 
 ---
 

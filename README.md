@@ -96,20 +96,7 @@ python test.py --dataset sysu --resume path/to/SYSU_Market.pth --gpu 0
 python test.py --dataset llcm --resume path/to/LLCM_Market.pth --gpu 0
 ```
 
----
 
-## 📜 Citation
-
-If you find this work, code, or generated datasets helpful in your research, please consider citing our paper:
-
-```bibtex
-@inproceedings{dida2026,
-  title={Diverse Identity-Preserving Diffusion Augmentation for Visible-Infrared Person Re-Identification},
-  author={Your Name and Co-authors},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year={2026}
-}
-```
 
 ---
 

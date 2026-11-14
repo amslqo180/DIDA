@@ -1,0 +1,23 @@
+python train_2.py \
+--pretrained_model_name_or_path './stable-diffusion-v1-5' \
+--train_data_dir '../data/SYSU_Market' \
+--dataset_name 'sysu' \
+--output_dir 'text-inversion-model' \
+--img_h 512 \
+--img_w 256 \
+--num_vectors 3 \
+--repeats 1 \
+--placeholder_token '<style_{}>' '<person_{}>' \
+--initializer_token style person head body leg \
+--P 4 \
+--K 4 \
+--gradient_accumulation_steps 8 \
+--rank 32 \
+--ti_lr 5e-4 \
+--lora_lr 1e-4 \
+--validation_true \
+--validation_steps 1000 \
+--checkpointing_steps 5000 \
+--max_train_steps 16000 \
+--mixed_precision bf16 \
+--resume_from_checkpoint 'latest'
